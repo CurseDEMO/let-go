@@ -1,0 +1,25 @@
+﻿# Build outputs
+/build/
+/bin/
+/obj/
+/out/
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# IDE and editor files
+.vs/
+.vscode/settings.json
+.idea/
+*.user
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and local configuration
+*.log
+.env
